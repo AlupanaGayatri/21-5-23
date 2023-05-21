@@ -1,0 +1,1 @@
+Sample file to test git username in the commit description
